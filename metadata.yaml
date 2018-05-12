@@ -1,4 +1,8 @@
 _repo: Les-cavaliers-de-la-nuit-deuxieme-partie-t-34_47802
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47802-h/images/cover.jpg
 creator:
   author:
     agent_name: Ponson du Terrail, Pierre Alexis
@@ -11,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
     - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47802#Les-cavaliers-de-la-nuit-deuxieme-partie-t-34
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-12-28'
 gutenberg_type: Text
